@@ -1,1 +1,2 @@
 Отличие состоит в том, что в файле README ветки master есть слова о пуговицах, а в ветке demo нет.
+В интерфейсе 3 коммита, fix readme, hometask, Merge branch 'boots_buttons_'
